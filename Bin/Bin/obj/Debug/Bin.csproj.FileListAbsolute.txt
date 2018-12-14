@@ -1,0 +1,28 @@
+C:\Users\Nastya\Desktop\Bin\Bin\bin\Debug\Bin.exe.config
+C:\Users\Nastya\Desktop\Bin\Bin\obj\Debug\Bin.csprojResolveAssemblyReference.cache
+C:\Users\Nastya\Desktop\Bin\Bin\obj\Debug\Bin.Form1.resources
+C:\Users\Nastya\Desktop\Bin\Bin\obj\Debug\Bin.Properties.Resources.resources
+C:\Users\Nastya\Desktop\Bin\Bin\obj\Debug\Bin.csproj.GenerateResource.Cache
+C:\Users\Nastya\Desktop\Bin\Bin\bin\Debug\Bin.exe
+C:\Users\Nastya\Desktop\Bin\Bin\bin\Debug\Bin.pdb
+C:\Users\Nastya\Desktop\Bin\Bin\obj\Debug\Bin.exe
+C:\Users\Nastya\Desktop\Bin\Bin\obj\Debug\Bin.pdb
+F:\ДИПЛОМ\PRUSNER\Bin\Bin\bin\Debug\Bin.exe.config
+F:\ДИПЛОМ\PRUSNER\Bin\Bin\obj\Debug\Bin.exe
+F:\ДИПЛОМ\PRUSNER\Bin\Bin\obj\Debug\Bin.pdb
+F:\ДИПЛОМ\PRUSNER\Bin\Bin\bin\Debug\Bin.exe
+F:\ДИПЛОМ\PRUSNER\Bin\Bin\bin\Debug\Bin.pdb
+F:\ДИПЛОМ\PRUSNER\Bin\Bin\obj\Debug\Bin.csprojResolveAssemblyReference.cache
+F:\ДИПЛОМ\PRUSNER\Bin\Bin\obj\Debug\Bin.Form1.resources
+F:\ДИПЛОМ\PRUSNER\Bin\Bin\obj\Debug\Bin.Properties.Resources.resources
+F:\ДИПЛОМ\PRUSNER\Bin\Bin\obj\Debug\Bin.csproj.GenerateResource.Cache
+D:\ARHIVE\Диплом\ДИПЛОМНЫЕ РЕЗУЛЬТАТЫ\ГРАФ С РОБ СТОЛА\Bin\Bin\bin\Debug\Bin.exe.config
+D:\ARHIVE\Диплом\ДИПЛОМНЫЕ РЕЗУЛЬТАТЫ\ГРАФ С РОБ СТОЛА\Bin\Bin\bin\Debug\Bin.exe
+D:\ARHIVE\Диплом\ДИПЛОМНЫЕ РЕЗУЛЬТАТЫ\ГРАФ С РОБ СТОЛА\Bin\Bin\bin\Debug\Bin.pdb
+D:\ARHIVE\Диплом\ДИПЛОМНЫЕ РЕЗУЛЬТАТЫ\ГРАФ С РОБ СТОЛА\Bin\Bin\obj\Debug\Bin.csprojAssemblyReference.cache
+D:\ARHIVE\Диплом\ДИПЛОМНЫЕ РЕЗУЛЬТАТЫ\ГРАФ С РОБ СТОЛА\Bin\Bin\obj\Debug\Bin.Form1.resources
+D:\ARHIVE\Диплом\ДИПЛОМНЫЕ РЕЗУЛЬТАТЫ\ГРАФ С РОБ СТОЛА\Bin\Bin\obj\Debug\Bin.Properties.Resources.resources
+D:\ARHIVE\Диплом\ДИПЛОМНЫЕ РЕЗУЛЬТАТЫ\ГРАФ С РОБ СТОЛА\Bin\Bin\obj\Debug\Bin.csproj.GenerateResource.cache
+D:\ARHIVE\Диплом\ДИПЛОМНЫЕ РЕЗУЛЬТАТЫ\ГРАФ С РОБ СТОЛА\Bin\Bin\obj\Debug\Bin.csproj.CoreCompileInputs.cache
+D:\ARHIVE\Диплом\ДИПЛОМНЫЕ РЕЗУЛЬТАТЫ\ГРАФ С РОБ СТОЛА\Bin\Bin\obj\Debug\Bin.exe
+D:\ARHIVE\Диплом\ДИПЛОМНЫЕ РЕЗУЛЬТАТЫ\ГРАФ С РОБ СТОЛА\Bin\Bin\obj\Debug\Bin.pdb
